@@ -1,0 +1,14 @@
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\bin\Debug\net8.0\HackerRankSolutions.exe
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\bin\Debug\net8.0\HackerRankSolutions.deps.json
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\bin\Debug\net8.0\HackerRankSolutions.runtimeconfig.json
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\bin\Debug\net8.0\HackerRankSolutions.dll
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\bin\Debug\net8.0\HackerRankSolutions.pdb
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\HackerRankSolutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\HackerRankSolutions.AssemblyInfoInputs.cache
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\HackerRankSolutions.AssemblyInfo.cs
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\HackerRankSolutions.csproj.CoreCompileInputs.cache
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\HackerRankSolutions.dll
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\refint\HackerRankSolutions.dll
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\HackerRankSolutions.pdb
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\HackerRankSolutions.genruntimeconfig.cache
+D:\Shloka\Interview Prep\HackerRank\HackerRankSolutions\obj\Debug\net8.0\ref\HackerRankSolutions.dll
