@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shloka\\Interview Prep\\HackerRank\\HackerRankSolutions\\HackerRankSolutions.csproj": {}
+    "D:\\Shloka\\Interview Prep\\HackerRankSolutions\\HackerRankSolutions.csproj": {}
   },
   "projects": {
-    "D:\\Shloka\\Interview Prep\\HackerRank\\HackerRankSolutions\\HackerRankSolutions.csproj": {
+    "D:\\Shloka\\Interview Prep\\HackerRankSolutions\\HackerRankSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shloka\\Interview Prep\\HackerRank\\HackerRankSolutions\\HackerRankSolutions.csproj",
+        "projectUniqueName": "D:\\Shloka\\Interview Prep\\HackerRankSolutions\\HackerRankSolutions.csproj",
         "projectName": "HackerRankSolutions",
-        "projectPath": "D:\\Shloka\\Interview Prep\\HackerRank\\HackerRankSolutions\\HackerRankSolutions.csproj",
+        "projectPath": "D:\\Shloka\\Interview Prep\\HackerRankSolutions\\HackerRankSolutions.csproj",
         "packagesPath": "C:\\Users\\she_l\\.nuget\\packages\\",
-        "outputPath": "D:\\Shloka\\Interview Prep\\HackerRank\\HackerRankSolutions\\obj\\",
+        "outputPath": "D:\\Shloka\\Interview Prep\\HackerRankSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

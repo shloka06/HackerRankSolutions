@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HackerRankSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+909975125bcee871af60ecdb30b6c416aa932f97")]
 [assembly: System.Reflection.AssemblyProductAttribute("HackerRankSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HackerRankSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
